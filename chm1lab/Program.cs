@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace chm1lab
 {
+    
     class Program
     {
         static void Main(string[] args)
         {
+            int a;
         }
     }
 }
